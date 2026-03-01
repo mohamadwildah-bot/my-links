@@ -56,14 +56,14 @@
 <h1>我的跳转网站</h1>
 
 <div class="link-grid">
-    <a href="https://www.baidu.com" target="_blank">百度</a>
-    <a href="https://www.google.com" target="_blank">Google</a>
-    <a href="https://www.youtube.com" target="_blank">YouTube</a>
-    <a href="https://www.qq.com" target="_blank">QQ</a>
-    <a href="https://www.taobao.com" target="_blank">淘宝</a>
-    <a href="https://www.jd.com" target="_blank">京东</a>
-    <a href="https://www.zhihu.com" target="_blank">知乎</a>
-    <a href="https://www.bilibili.com" target="_blank">哔哩哔哩</a>
+    <a href="https://www.baidu.com" target="_blank">91</a>
+    <a href="https://www.google.com" target="_blank">约炮</a>
+    <a href="https://www.youtube.com" target="_blank">海角</a>
+    <a href="https://www.qq.com" target="_blank">抖阴</a>
+    <a href="https://www.taobao.com" target="_blank">黄瓜</a>
+    <a href="https://www.jd.com" target="_blank">秀人网</a>
+    <a href="https://www.zhihu.com" target="_blank">日本av</a>
+    <a href="https://www.bilibili.com" target="_blank">金典三级</a>
     <!-- 继续添加你的链接 -->
 </div>
 
